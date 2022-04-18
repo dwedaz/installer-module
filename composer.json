@@ -1,0 +1,23 @@
+{
+    "name": "dwedaz/installer-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Willy Yudithya",
+            "email": "neo.dwedaz@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Installer\\": ""
+        }
+    }
+}

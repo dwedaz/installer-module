@@ -1,0 +1,15 @@
+{
+    "name": "Installer",
+    "alias": "installer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Installer\\Providers\\InstallerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Helpers/functions.php"
+    ],
+    "requires": []
+}
